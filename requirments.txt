@@ -1,0 +1,15 @@
+
+streamlit
+python-dotenv
+requests
+streamlit
+yfinance
+pandas
+numpy
+requests
+tensorflow
+scikit-learn
+beautifulsoup4
+python-dotenv
+plotly 
+pandas_ta
